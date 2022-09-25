@@ -9,7 +9,7 @@
   <img align="center" alt="Hide-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Hide-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hide-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Hide-pic" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="" height="150" style="border-radius:50px;" src="">
 </div>
   
   ##
