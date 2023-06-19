@@ -10,7 +10,7 @@
   <img align="center" alt="Hide-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hide-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Hide-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Hide-Pic" height="150" style="border-radius:60px;" src="https://media.discordapp.net/attachments/762726810243825684/1023666559211798610/download20220900154345.png?width=390&height=390">
+  <img align="right" alt="Hide-Pic" height="150" style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/877765439164399630/1120500001836126238/small_rakan_emote_by_butterup5_ddmkicc-fullview.png?width=700&height=700">
 </div>
   
   ##
