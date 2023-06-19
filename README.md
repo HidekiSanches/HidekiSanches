@@ -1,4 +1,4 @@
-## Olá! Eu sou o HidekiSanches 
+## Olá! Eu sou o Thiago Hideki
 
 <div align="center">
   <a href="https://github.com/HidekiSanches">
