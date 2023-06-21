@@ -11,6 +11,7 @@
   <img align="center" alt="Hide-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg">
   <img align="center" alt="Hide-TS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg">
   <img align="center" alt="Hide-Java" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg">
+  <img align="center" alt="Hide-PHP" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg">
   <img align="center" alt="Hide-Angular" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Angular-Dark.svg">
   <img align="center" alt="Hide-Swift" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Swift.svg">
   <img align="center" alt="Hide-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Kotlin-Dark.svg">
