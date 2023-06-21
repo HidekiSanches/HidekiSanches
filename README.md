@@ -20,16 +20,8 @@
   <img align="right" alt="Hide-Pic" height="150" style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/877765439164399630/1120500001836126238/small_rakan_emote_by_butterup5_ddmkicc-fullview.png?width=700&height=700">
   <img align="right" alt="Hide-follow" src="https://img.shields.io/github/followers/HidekiSanches?label=Follow&style=social">
 </div>
-  
-  ##
- 
- <div> 
-  <a href="https://instagram.com/thi.hideki" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:thiago.sanches@sptech.school"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiago-hideki-72ba56246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-<br>
-<br>
+
+##
 
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=HidekiSanches&theme=tokyonight">
@@ -37,6 +29,14 @@
 
 <div>
   <img src="https://github.com/HidekiSanches/HidekiSanches/blob/output/github-contribution-grid-snake.svg">
+</div>
+
+  ##
+ 
+ <div style=""> 
+  <a href="https://instagram.com/thi.hideki" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:thiago.sanches@sptech.school"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thiago-hideki-72ba56246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <!--
