@@ -31,10 +31,13 @@
 <br>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HidekiSanches&theme=tokyonight)](https://github.com/HidekiSanches/github-profile-trophy)
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=HidekiSanches&theme=tokyonight">
+</div>
 
-
-![Snake animation](https://github.com/HidekiSanches/HidekiSanches/blob/output/github-contribution-grid-snake.svg)
+<div>
+  <img src="https://github.com/HidekiSanches/HidekiSanches/blob/output/github-contribution-grid-snake.svg">
+</div>
 
 <!--
 **HidekiSanches/HidekiSanches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
