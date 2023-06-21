@@ -28,10 +28,13 @@
   <a href = "mailto:thiago.sanches@sptech.school"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-hideki-72ba56246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<br>
+<br>
 
-<div>
-  <img src="https://raw.githubusercontent.com/leobr1t0/leobr1t0/03037868c681e4fb74f3639414b27fe026d19595/github-contribution-grid-snake.svg">
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=HidekiSanches&theme=tokyonight)](https://github.com/HidekiSanches/github-profile-trophy)
+
+
+![Snake animation](https://github.com/HidekiSanches/HidekiSanches/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **HidekiSanches/HidekiSanches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
