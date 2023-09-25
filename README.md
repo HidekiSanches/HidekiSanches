@@ -23,12 +23,6 @@
 </div>
 
 ##
-
-<div>
-  <img src="https://github-profile-trophy.vercel.app/?username=HidekiSanches&theme=tokyonight">
-</div>
-
-  ##
  
  <div style=""> 
   <a href="https://instagram.com/thi.hideki" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
