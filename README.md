@@ -32,7 +32,7 @@
 
 ##
 
-<div>
+<div style="margin-top:60px;">
   <img src="https://github-profile-trophy.vercel.app/?username=HidekiSanches&theme=tokyonight">
 </div>
 
