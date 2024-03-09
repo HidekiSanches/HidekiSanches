@@ -18,7 +18,7 @@
   <img align="center" alt="Hide-MySQL" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg"/>
   <img align="center" alt="Hide-Node" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg">
   <img align="center" alt="Hide-Spring" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg">
-  <img align="right" alt="Hide-Pic" height="160" style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/877765439164399630/1120500001836126238/small_rakan_emote_by_butterup5_ddmkicc-fullview.png?width=800&height=800">
+  <img align="right" alt="Hide-Pic" height="160" style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/1073444344499032066/1215818870192078918/small_rakan_emote_by_butterup5_ddmkicc-fullview.png?ex=65fe228f&is=65ebad8f&hm=cbec3801992a8683f0aa55ef2eef4de98094bc78741afec737d561fc956bb124&?width=800&height=800">
   <img align="right" alt="Hide-follow" src="https://img.shields.io/github/followers/HidekiSanches?label=Follow&style=social">
 </div>
 
